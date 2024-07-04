@@ -1,16 +1,13 @@
-## Hi there 👋
+## 프로젝트
 
-<!--
-**jinwuui/jinwuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 로-컬.xyz
+전 세계 곳곳의 숨겨진 로컬 여행지를 공유하고 탐색할 수 있는 사이트
+(프로젝트 설명 바로가기)[https://github.com/jinwuui/local-travel-map-frontend]
 
-Here are some ideas to get you started:
+### WhatsPink
+사진과 달력을 선택해서 배경 화면을 만들고 서로 공유하는 SNS 앱
+(작성중)[]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 공유 배달 앱
+주변의 사람들과 함께 주문하는 음식 배달 앱
+(작성중)[]
