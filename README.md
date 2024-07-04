@@ -17,4 +17,4 @@
 ### 공유 배달 앱
 주변의 사람들과 함께 주문하는 음식 배달 앱
 
-[작성중]()
+[프로젝트 설명 바로가기](https://github.com/jinwuui/share-delivery-front)
