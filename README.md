@@ -1,4 +1,4 @@
-# 프로젝트 한눈에 보기
+# Project
 
 ### 로-컬.xyz (ローーカル.xyz)
 
@@ -6,7 +6,7 @@
 
 [Project README](https://github.com/jinwuui/local-travel-map-frontend)
 
-[Site](https://looocal.xyz)
+[Site Link](https://looocal.xyz)
 
 ---
 
