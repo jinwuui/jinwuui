@@ -1,4 +1,4 @@
-# Project
+# Projects
 
 ### 로-컬.xyz (ローーカル.xyz)
 
