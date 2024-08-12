@@ -8,6 +8,11 @@
 
 [Site Link](https://looocal.xyz)
 
+프로젝트 개선 목표
+
+<img width="500" alt="Screenshot 2024-08-12 at 7 43 26 PM" src="https://github.com/user-attachments/assets/43c61b01-1a43-46c7-b520-0444195af060">
+
+
 ---
 
 ### WhatsPink
