@@ -8,6 +8,8 @@
 
 [Site Link](https://looocal.xyz)
 
+[스프링 부트로 마이그레이션](https://github.com/jinwuui/local-travel-spring-backend?tab=readme-ov-file#readme)
+
 ---
 
 ### WhatsPink
