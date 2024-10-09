@@ -4,7 +4,7 @@
 
 숨겨진 로컬 여행지를 공유하고 탐색하는 플랫폼으로, 사용자들이 경험한 여행지를 서로 나누고 특별한 여행지를 발견할 수 있습니다.
 
-[**프로젝트 설명**](https://github.com/jinwuui/local-travel-map-frontend)
+[**프로젝트 설명**](https://github.com/jinwuui/local-travel-spring-backend)
 
 [**사이트 링크**](https://looocal.xyz)
 
